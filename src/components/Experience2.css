@@ -1,0 +1,68 @@
+.experiencee{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 110vh;
+    background: #fff;
+}
+.s-onee{
+    position: relative;
+    width: 40px;
+    height: 110vh;
+    background: #fda94f;
+    left: 85%;
+}
+.s-twoo{
+    position: absolute;
+    width: 75px;
+    top: 2324px;
+    height: 110vh;
+    background: #ed6335;
+    left: 80%;
+}
+.s-threee{
+    position: absolute;
+    top: 2324px;
+    width: 20px;
+    height: 110vh;
+    background: #2f2d38;
+    left: 79%;
+}
+.exp-imgg img{
+      left: 1000px;
+      position: relative;
+      top: -550px;
+      width: 450px;
+      height: 430px;
+}
+.exp-titlee label{
+    left: 1030px;
+    position: relative;
+    top: -620px;
+    font-weight: 1000;
+    font-size: 3rem;
+    color: white;
+}
+.exp-titlee p{
+    left: 820px;
+    position: relative;
+    top: -660px;
+    font-weight: 1000;
+    font-size: 3rem;
+    color: black;
+}
+.exp-infoo li{
+    position: relative;
+    left: 150px;
+    top: -1100px;
+    color: black;
+    max-width: 600px;
+    z-index: 200;
+    font-size: 1.5rem;
+}
+.exppp h1{
+    position: relative;
+    left: 130px;
+    top: -1150px;
+    color: black;
+}

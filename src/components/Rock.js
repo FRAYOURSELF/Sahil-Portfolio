@@ -1,0 +1,39 @@
+import "./RockStyles.scss";
+import React from 'react'
+
+const Rock = () => {
+  return (
+    <div className="rockk">
+        <p class="rock">ROCK</p>
+<div class="hand">
+  <div class="palm">
+    <div class="bone"></div>
+    <div class="palm-shadow"></div>
+  </div>
+  <div class="thumb-base"></div>
+  <div class="mobile-shadow"></div>
+  <div class="mobile">
+    <div class="screensaver"></div>
+  </div>
+  <div class="finger-5 finger">
+    <div class="finger-shadow"></div>
+  </div>
+  <div class="finger-4 finger">
+    <div class="fingernail"></div>
+  </div>
+  <div class="finger-3 finger">
+    <div class="fingernail"></div>
+  </div>
+  <div class="finger-2 finger">
+    <div class="finger-shadow"></div>
+  </div>
+  <div class="finger-1 finger">
+    <div class="fingernail"></div>
+  </div>
+</div>
+      
+    </div>
+  )
+}
+
+export default Rock

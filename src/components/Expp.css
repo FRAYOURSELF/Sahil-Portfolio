@@ -1,0 +1,24 @@
+.w-full { width: 100%; }
+.h-full { height: 100%; }
+.w-1{width: 100%;}
+.h-1{height: 100%}
+.object-contain { object-fit: contain; }
+.flex {
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.items-center { align-items: center; }
+.text-center{
+    text-align: center;
+}
+.mt-40 { margin-top: 10rem; }
+.flex-col {
+    flex-direction: column;
+}
+.list-none { list-style-type: none; }
+.list-disc { list-style-type: disc; }
+.list-decimal { list-style-type: decimal; }
+.ml-5 { margin-left: 1.25rem; }
+.font-bold { font-weight: 700; }

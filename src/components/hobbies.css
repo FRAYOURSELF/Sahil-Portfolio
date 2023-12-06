@@ -1,0 +1,102 @@
+.bas{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 200vh;
+    background: #fff;
+}
+.hob h1{
+    left: 650px;
+    position: relative;
+    top: 100px;
+    color: black;
+    font-size: 4rem;
+}
+.bas-img1 img{
+    left: 80px;
+    position: relative;
+    top: 130px;
+    width: 300px;
+    height: 500px;
+}
+.bask h1{
+    left: 420px;
+    position: relative;
+    top: -250px;
+    color: black;
+}
+.bask p{
+    width: 300px;
+    left: 420px;
+    position: relative;
+    top: -250px;
+    color: black;
+}
+.bas-img2 img{
+    left: 1140px;
+    position: relative;
+    top: -550px;
+    width: 300px;
+    height: 500px;
+}
+.bask2 h1{
+    left: 825px;
+    position: relative;
+    top: -950px;
+    color: black;
+}
+.bask2 p{
+    width: 300px;
+    left: 825px;
+    position: relative;
+    top: -950px;
+    color: black;
+}
+.me img{
+    left: 600px;
+    position: absolute;
+    top: 2100px;
+    width: 300px;
+    height: 400px;
+    z-index: 100;
+}
+.bas-img3 img{
+    left: 1140px;
+    position: relative;
+    top: -580px;
+    width: 300px;
+    height: 500px;
+}
+.bask3 h1{
+    left: 825px;
+    position: relative;
+    top: -950px;
+    color: black;
+}
+.bask3 p{
+    width: 300px;
+    left: 825px;
+    position: relative;
+    top: -950px;
+    color: black;
+}
+.bas-img4 img{
+    left: 80px;
+    position: relative;
+    top: -1330px;
+    width: 300px;
+    height: 500px;
+}
+.bask4 h1{
+    left: 420px;
+    position: relative;
+    top: -1690px;
+    color: black;
+}
+.bask4 p{
+    width: 300px;
+    left: 420px;
+    position: relative;
+    top: -1690px;
+    color: black;
+}

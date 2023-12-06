@@ -1,0 +1,16 @@
+.disclaim{
+    width: 100%;
+    height:3vh;
+    
+}
+.disclaim h1{
+    font-size: 1rem;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+    padding-bottom: 1rem;
+}
+.disclaim b{
+    color: red;
+    font-size: 1.3rem;
+}
