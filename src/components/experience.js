@@ -52,7 +52,7 @@ const experience = () => {
             <p>Centre</p>
         </div>
         <div className="expp">
-        <h1>Web<br/>Software development Intern</h1>
+        <h1><br/>Web development Intern</h1>
       </div>
         <div className="exp-info">
           <ul style={{ listStyleType: 'disc' }}>
